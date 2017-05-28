@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3650644c08bb57b47ab9276513e32617
+timeCreated: 1495902419
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tcg_data: {fileID: 11400000, guid: 51dd912d444631043838ef908faa4c82, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
